@@ -1,0 +1,8 @@
+read_quality: 0
+bam_output: true
+flagged_read: 0
+auto_detect: true
+thread: 4
+sam_file:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.sam

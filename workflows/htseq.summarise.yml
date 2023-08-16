@@ -1,0 +1,17 @@
+order: name
+cores: 4
+MAPQ: 10
+featuretype: gene
+mode: union
+strand: 'yes'
+idattribute: Name
+inputformat: bam
+sorbam_file:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.sorted.bam
+bai_file:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.sorted.bai
+gtf_file:
+  class: File
+  path: /mnt/d/natcom2020/genome.gff3

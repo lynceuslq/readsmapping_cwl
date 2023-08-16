@@ -1,0 +1,7 @@
+qc_outdir:
+  class: Directory
+  path: /mnt/d/cwlworkdir/QC
+fq_file1:
+  class: File
+  path: /mnt/d/rawdata/SRR4427761_1.fastq.gz
+threads: 8

@@ -1,0 +1,5 @@
+align_thread: 4
+index_prefix: /mnt/d/cwlworkdir/index/index
+fastq_file1:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.fastq.gz

@@ -1,0 +1,8 @@
+all_positions: true
+read_length_beyond: 0
+max_coverage: 8000
+base_quality: 0
+map_quality: 0
+sorbam_file:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.sorted.bam

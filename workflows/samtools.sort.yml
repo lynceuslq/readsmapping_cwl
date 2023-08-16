@@ -1,0 +1,5 @@
+by_name: false
+thread: 4
+bam_file:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.bam

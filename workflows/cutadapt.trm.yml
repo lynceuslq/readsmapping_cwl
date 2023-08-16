@@ -1,0 +1,8 @@
+adapter1: CTGTAGGCACCATCAATATCTCGTATGCCGTCTTCTGCTTG
+cores: 6
+min_length: 10
+outputpath: SRR12513913_1.trimmed.fastq.gz
+outreport: SRR12513913_1.trim.report.json
+fq_file1:
+  class: File
+  path: /mnt/d/rawdata/SRR12513913_1.fastq.gz

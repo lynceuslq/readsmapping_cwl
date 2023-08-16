@@ -1,0 +1,5 @@
+thread: 4
+sorbam_file:
+  class: File
+  path: /mnt/d/cwlworkdir/SRR12513913_1.trimmed.test.sorted.bam
+bai_file: SRR12513913_1.trimmed.test.sorted.bai

@@ -1,0 +1,5 @@
+index_dir: /mnt/d/cwlworkdir/index/index
+index_blocksize: 10000000
+genome:
+  class: File
+  path: /mnt/d/natcom2020/genome.fasta
